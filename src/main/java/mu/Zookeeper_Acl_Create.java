@@ -8,10 +8,17 @@ import java.util.concurrent.CountDownLatch;
 
 
 /**
+ * 描述: 权限操作</br>
+ *
  * addauth digest username:password
  * setAcl /test auth:username:cdrwa
  * getAcl /test
  *
+ * @author yuas
+ * @version 1.0.0
+ * @since 2019/11/6 10:44
+ * <p>
+ * Copyright © 2019 BZN Corporation, All Rights Reserved.
  */
 public class Zookeeper_Acl_Create implements Watcher {
 
