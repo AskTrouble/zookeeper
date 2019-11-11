@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://D:/baozhunniu/git/bzn-central" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git/bzn-central/bzn-central-api" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git/bzn-central/bzn-central-service" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git/bzn-insurance" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git/bzn-insurance-gateway" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git/bzn-insurance-gateway/bzn-insurance-gateway-api" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git/bzn-insurance-gateway/bzn-insurance-gateway-service" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git/bzn-insurance/bzn-insurance-service" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git/bzn-insurance/bzn-insurance-service-api" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git2.0/bzn-business" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git2.0/bzn-business-admin" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git2.0/bzn-business/bzn-business-api" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git2.0/bzn-business/bzn-business-service" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git2.0/bzn-employer-portal-pc" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git2.0/bzn-portal-admin" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git2.0/bzn-portal-pc" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/git2.0/bzn-sale-portal-pc" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/baozhunniu-website" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/baozhunniu-website/baozhunniu-website-admin" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/baozhunniu-website/baozhunniu-website-service" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/baozhunniu-website/baozhunniu-website-web" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-excel" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-excel/bzn-excel-api" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-facade-pc" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-bw" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-bwwap" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-excelUpload" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-gwwap" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-service" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-service/bzn-website-service-business" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-service/bzn-website-service-common" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-service/bzn-website-service-excel" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-service/bzn-website-service-model" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-service/bzn-website-service-pay" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-sports-wap" charset="UTF-8" />
+    <file url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-sports-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

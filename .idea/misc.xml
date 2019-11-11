@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/baozhunniu/gitbzn/baozhunniu-website/baozhunniu-website-admin" />
+    <file type="web" url="file://D:/baozhunniu/gitbzn/baozhunniu-website/baozhunniu-website-web" />
+    <file type="web" url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-bw" />
+    <file type="web" url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-bwwap" />
+    <file type="web" url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-excelUpload" />
+    <file type="web" url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-gwwap" />
+    <file type="web" url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-sports-wap" />
+    <file type="web" url="file://D:/baozhunniu/gitbzn/bzn-website/bzn-website-sports-web" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/baozhunniu/gitbzn/baozhunniu-website/pom.xml" />
+        <option value="D:/baozhunniu/gitbzn/bzn-website/pom.xml" />
+        <option value="D:/baozhunniu/git2.0/bzn-sale-portal-pc/pom.xml" />
+        <option value="D:/baozhunniu/git2.0/bzn-employer-portal-pc/pom.xml" />
+        <option value="D:/baozhunniu/git2.0/bzn-business/pom.xml" />
+        <option value="D:/baozhunniu/gitbzn/bzn-facade-pc/pom.xml" />
+        <option value="D:/baozhunniu/git/bzn-central/pom.xml" />
+        <option value="D:/baozhunniu/git/bzn-insurance/pom.xml" />
+        <option value="D:/baozhunniu/git/bzn-insurance-gateway/pom.xml" />
+        <option value="D:/baozhunniu/gitbzn/bzn-excel/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="D:/baozhunniu/gitbzn/bzn-website/bzn-website-bw/pom.xml" />
+        <option value="D:/baozhunniu/gitbzn/bzn-website/bzn-website-bwwap/pom.xml" />
+        <option value="D:/baozhunniu/gitbzn/bzn-website/bzn-website-sports-wap/pom.xml" />
+        <option value="D:/baozhunniu/gitbzn/bzn-website/bzn-website-sports-web/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 -181" project-jdk-type="JavaSDK">

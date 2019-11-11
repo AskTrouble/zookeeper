@@ -6,8 +6,39 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="baozhunniu-website-admin" />
+        <module name="baozhunniu-website-service" />
+        <module name="baozhunniu-website-web" />
+        <module name="bzn-business-api" />
+        <module name="bzn-business-service" />
+        <module name="bzn-central-api" />
+        <module name="bzn-central-service" />
+        <module name="bzn-employer-portal-pc" />
+        <module name="bzn-excel-api" />
+        <module name="bzn-facade-pc" />
+        <module name="bzn-insurance-gateway-api" />
+        <module name="bzn-insurance-gateway-service" />
+        <module name="bzn-insurance-service" />
+        <module name="bzn-insurance-service-api" />
+        <module name="bzn-sale-portal-pc" />
+        <module name="bzn-website-excelUpload" />
+        <module name="bzn-website-gwwap" />
+        <module name="bzn-website-service-business" />
+        <module name="bzn-website-service-common" />
+        <module name="bzn-website-service-excel" />
+        <module name="bzn-website-service-model" />
+        <module name="bzn-website-service-pay" />
         <module name="zkapi" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bzn-business-admin" target="1.8" />
+      <module name="bzn-portal-admin" target="1.8" />
+      <module name="bzn-portal-pc" target="1.8" />
+      <module name="bzn-website-bw" target="1.7" />
+      <module name="bzn-website-bwwap" target="1.7" />
+      <module name="bzn-website-sports-wap" target="1.7" />
+      <module name="bzn-website-sports-web" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

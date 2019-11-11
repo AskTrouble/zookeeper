@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="D:/baozhunniu/git/bzn-central" vcs="Git" />
+    <mapping directory="D:/baozhunniu/git/bzn-insurance" vcs="Git" />
+    <mapping directory="D:/baozhunniu/git/bzn-insurance-gateway" vcs="Git" />
+    <mapping directory="D:/baozhunniu/git2.0/bzn-business" vcs="Git" />
+    <mapping directory="D:/baozhunniu/git2.0/bzn-employer-portal-pc" vcs="Git" />
+    <mapping directory="D:/baozhunniu/git2.0/bzn-sale-portal-pc" vcs="Git" />
+    <mapping directory="D:/baozhunniu/gitbzn/baozhunniu-website" vcs="Git" />
+    <mapping directory="D:/baozhunniu/gitbzn/bzn-excel" vcs="Git" />
+    <mapping directory="D:/baozhunniu/gitbzn/bzn-facade-pc" vcs="Git" />
+    <mapping directory="D:/baozhunniu/gitbzn/bzn-website" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
